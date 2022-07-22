@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **deeptruth247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cqhTWeimJkC6XCe_VzHWayfqA1GzJ_Hs/view](https://drive.google.com/file/d/1cqhTWeimJkC6XCe_VzHWayfqA1GzJ_Hs/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cqhTWeimJkC6XCe_VzHWayfqA1GzJ_Hs/view](https://drive.google.com/file/d/1MIU7SWOBognTKNKd_27d__DNbfFPvyF_/view?usp=sharing)
 
 - ⚡ Fun fact **I love dancing.💃**
 
