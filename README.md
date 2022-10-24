@@ -18,7 +18,7 @@
 
 - :busts_in_silhouette: Join my tech community on discord [https://discord.gg/JhCdztuAcm](https://discord.gg/JhCdztuAcm)
 
-- 💬 Ask me about **Javascript, CSS & Figma**
+- 💬 Ask me about **Javascript, ReactJS & Figma**
 
 - 📫 How to reach me **deeptruth247@gmail.com**
 
