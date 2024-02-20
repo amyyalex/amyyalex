@@ -1,6 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amarachukwu Stephanie Alex-Okenwa</h1>
-<h3 align="center">I am a Frontend developer and a UI/UX designer.</h3>
+<h3 align="center">Developer transitioed into Project Manager | Developer & OpenSource Advocate.</h3>
 
 <p align="center">
 <a href="https://amyyalex.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
@@ -10,17 +10,15 @@
 </p>
 <br />
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently on my masters study on Project Management
 
-- 👨‍💻 All of my projects are available at [https://amyyalex.github.io/Portfolio](https://amyyalex.github.io/Portfolio)
+- 👨‍💻 All of my web design projects are available at [https://amyyalex.github.io/Portfolio](https://amyyalex.github.io/Portfolio)
 
 - 📝 I regularly write articles on [https://stephanieamy.medium.com](https://stephanieamy.medium.com)
-
+  
+- 📝 You can find more articles on [[https://hashnode.com/@amyyalex](https://hashnode.com/@amyyalex)
+  
 - :busts_in_silhouette: Join my tech community on discord [https://discord.gg/JhCdztuAcm](https://discord.gg/JhCdztuAcm)
-
-- 💬 Ask me about **Javascript, ReactJS & Figma**
-
-- 📫 How to reach me **deeptruth247@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cqhTWeimJkC6XCe_VzHWayfqA1GzJ_Hs/view](https://drive.google.com/file/d/1MIU7SWOBognTKNKd_27d__DNbfFPvyF_/view?usp=sharing)
 
