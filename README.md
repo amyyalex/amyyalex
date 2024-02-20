@@ -1,6 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amarachukwu Stephanie Alex-Okenwa</h1>
-<h3 align="center">Developer transitioed into Project Manager | Developer & OpenSource Advocate.</h3>
+<h3 align="center">Developer transitioned into Project Manager | Developer & OpenSource Advocate.</h3>
 
 <p align="center">
 <a href="https://amyyalex.vzy.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
