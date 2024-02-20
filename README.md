@@ -3,16 +3,14 @@
 <h3 align="center">Developer transitioed into Project Manager | Developer & OpenSource Advocate.</h3>
 
 <p align="center">
-<a href="https://amyyalex.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href="https://amyyalex.vzy.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/stephaniealexokenwa/"><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://twitter.com/alexstephanie10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dribbble.com/stephnny"><img src="https://img.shields.io/badge/-dribbble-blueviolet?style=for-the-badge&logo=dribbble&logoColor=white alt="Dribbble" /></a>&nbsp;
 </p>
 <br />
 
-- 🌱 I’m currently on my masters study on Project Management
-
-- 👨‍💻 All of my web design projects are available at [https://amyyalex.github.io/Portfolio](https://amyyalex.github.io/Portfolio)
+- 🌱 I’m currently on my masters study on Project Management and on @DXMentorship Cohort 3
 
 - 📝 I regularly write articles on [https://stephanieamy.medium.com](https://stephanieamy.medium.com)
   
