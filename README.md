@@ -10,6 +10,8 @@
 </p>
 <br />
 
+<p>I'm currently doing this challenge challenge I started at the beginning of August, where I commit to contributing to open-source projects every day for the entire month. Feel free to check my commit logs to see the progress I've made so far.</p>
+
 
 - 📝 I regularly write articles on [https://stephanieamy.medium.com](https://stephanieamy.medium.com)
   
